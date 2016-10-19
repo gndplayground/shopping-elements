@@ -1,0 +1,24 @@
+{
+	"name": "shopping-elements",
+	"version": "0.1.0",
+	"description": "A set of visual and non-visual utility elements for Tiki Shopping squad.",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/tiki-element/shopping-elements.git"
+	},
+	"dependencies": {
+		"tiki-product": "https://github.com/tiki-element/tiki-product.git"
+	},
+	"homepage": "https://github.com/tiki-element/shopping-elements/",
+	"authors": [
+		"Tiki Corporation"
+	],
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"main": "shopping-elements.html"
+}
